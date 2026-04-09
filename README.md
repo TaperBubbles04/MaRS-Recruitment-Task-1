@@ -30,7 +30,7 @@ $$Real Distance = \frac{17.0 \text{ cm} \times Focal Length}{Perceived Width_{px
 
 5. **Pin-Hole Camera and CV**: I had very little knowledge about these and was very hard for me to understand. However I spent some time to learn what and how Pin-Hole Cameras work and detected some basic errors which I was able to fix even though I was unable to learn to the full extend and see if the entire code was error free.
 ---
-**
+
 ## 📚 Resources Used
 * **Ubuntu Installation:**
     * https://youtu.be/mXyN1aJYefc?si=MjkGhq95SP9-VUqu
